@@ -12,3 +12,4 @@ new new
 new lines adding
 new new
 add another change
+add text
