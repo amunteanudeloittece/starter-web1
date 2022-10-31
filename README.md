@@ -15,3 +15,4 @@ add another change
 add text
 modified
 another change
+stash example
